@@ -61,7 +61,9 @@ I'm a **self-taught developer** with an insatiable curiosity for technology and 
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mugire-can&theme=dark&hide_border=true)](https://github.com/mugire-can)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugire-can&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/mugire-can)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mugire-can&layout=compact&theme=dark&hide_border=true)](https://github.com/mugire-can)
 
 </div>
 
