@@ -61,13 +61,11 @@ I'm a **self-taught developer** with an insatiable curiosity for technology and 
 
 <div align="center">
 
-<a href="https://github.com/mugire-can">
-  <img height="180em" src="https://github-readme-stats-git-main-mugire-can.vercel.app/api?username=mugire-can&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Mugire's GitHub Stats"/>
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mugire-can&theme=dark)](https://github.com/mugire-can)
 
-<a href="https://github.com/mugire-can">
-  <img height="180em" src="https://github-readme-stats-git-main-mugire-can.vercel.app/api/top-langs/?username=mugire-can&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/>
-</a>
+[![Mugire's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mugire-can&show_icons=true&theme=dark)](https://github.com/mugire-can)
+
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mugire-can&layout=compact&theme=dark)](https://github.com/mugire-can)
 
 </div>
 
