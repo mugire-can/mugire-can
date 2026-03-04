@@ -104,20 +104,6 @@ Educational exploration of Virtual Machines and Docker containerization—key te
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mugire-can&theme=dark)](https://github.com/mugire-can)
-
-[![Mugire's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mugire-can&show_icons=true&theme=dark)](https://github.com/mugire-can)
-
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mugire-can&layout=compact&theme=dark)](https://github.com/mugire-can)
-
-</div>
-
----
-
 ## 💡 Philosophy & Vision
 
 > *"Code is poetry. It tells a story of logic, creativity, and problem-solving. Every line of code is an opportunity to learn and improve."*
