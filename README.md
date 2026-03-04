@@ -129,10 +129,10 @@ I believe in:
 | **Portfolio** | [mugire-can.github.io/portofolio](https://github.com/mugire-can/portofolio) |
 
 I'm always open to:
-- 💼 Collaboration on exciting projects
-- 🤝 Mentoring and knowledge exchange
-- 🚀 Discussing new technologies and innovations
-- 📚 Contributing to open-source initiatives
+ 💼 Collaboration on exciting projects
+ 🤝 Mentoring and knowledge exchange
+ 🚀 Discussing new technologies and innovations
+ 📚 Contributing to open-source initiatives
 
 </div>
 
