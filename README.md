@@ -144,9 +144,9 @@ I'm always open to:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mugire-can&theme=dark)](https://github.com/mugire-can)
 
-[![Mugire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugire-can&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true)](https://github.com/mugire-can)
+[![Mugire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugire-can&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)](https://github.com/mugire-can)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mugire-can&layout=compact&theme=dark&hide_border=true)](https://github.com/mugire-can)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mugire-can&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)](https://github.com/mugire-can)
 
 </div>
 
