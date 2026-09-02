@@ -126,7 +126,7 @@ I believe in:
 | **Email** | [mugirecan@gmail.com](mailto:mugirecan@gmail.com) |
 | **LinkedIn** | [@mugire-can](https://www.linkedin.com/in/mugire-can-87045aa6) |
 | **GitHub** | [@mugire-can](https://github.com/mugire-can) |
-| **Portfolio** | [mugire-can.github.io/portofolio](https://github.com/mugire-can/portofolio) |
+| **Portfolio** | [Portfolio repository](https://github.com/mugire-can/portofolio) |
 
 I'm always open to:
  💼 Collaboration on exciting projects
@@ -144,9 +144,9 @@ I'm always open to:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mugire-can&theme=dark)](https://github.com/mugire-can)
 
-[![Mugire's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mugire-can&show_icons=true&theme=dark)](https://github.com/mugire-can)
+[![Mugire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugire-can&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true)](https://github.com/mugire-can)
 
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mugire-can&layout=compact&theme=dark)](https://github.com/mugire-can)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mugire-can&layout=compact&theme=dark&hide_border=true)](https://github.com/mugire-can)
 
 </div>
 
@@ -157,7 +157,7 @@ I'm always open to:
 ### ⚡ Fun Fact
 *Every expert was once a beginner who refused to give up! 🚀*
 
-**📚 Currently: La Plateforme - 2nd Year | Focus: Full-Stack Development & Cybersecurity**
+**📚 Currently: La Plateforme - 3rd Year | Focus: Full-Stack Development & Cybersecurity**
 
 ---
 
